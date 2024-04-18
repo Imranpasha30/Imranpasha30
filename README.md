@@ -1,4 +1,4 @@
-![logo](https://github.com/Imranpasha30/Imranpasha30/blob/main/Designer.png)
+
 
 <h1 align="center">Hi 👋, I'm Imran Pasha</h1>
 <h3 align="center">A passionate full stack ,AI developer from India</h3>
